@@ -1,0 +1,16 @@
+C:\Users\310-07\Documents\Prakt8SavTask2\bin\Debug\Prakt8SavTask2.exe.config
+C:\Users\310-07\Documents\Prakt8SavTask2\bin\Debug\Prakt8SavTask2.exe
+C:\Users\310-07\Documents\Prakt8SavTask2\bin\Debug\Prakt8SavTask2.pdb
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.csproj.AssemblyReference.cache
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.csproj.SuggestedBindingRedirects.cache
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\MainWindow.g.cs
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\App.g.cs
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2_MarkupCompile.cache
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2_MarkupCompile.lref
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\MainWindow.baml
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.g.resources
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.Properties.Resources.resources
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.csproj.GenerateResource.cache
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.csproj.CoreCompileInputs.cache
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.exe
+C:\Users\310-07\Documents\Prakt8SavTask2\obj\Debug\Prakt8SavTask2.pdb
